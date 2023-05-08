@@ -1,6 +1,6 @@
 import requests
 import webbrowser
-from settings import CLIENT_ID
+from settings import CLIENT_ID #settings contiene CLIENT_ID y SECRET_ID generados en OAuth Apps de Git-hub
 from settings import SECRET_ID
 
 #Obtener código de la url
